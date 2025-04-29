@@ -1,2 +1,0 @@
-1|C++ Programming|Bjarne Stroustrup|2013|45.990002
-1|Mere mehboob mere sanam|Shrikant|2006|69.000000
